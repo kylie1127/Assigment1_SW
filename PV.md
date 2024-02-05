@@ -94,6 +94,7 @@ Device Compatibility: Students may use a variety of devices and operating system
 
 
 Key Features and Functionalities:
+
 1.Anonymous community:  required where users can freely write and share their opinions. This facilitates communication and information sharing among the school community.
 - Anonymity: Anonymity must be ensured so that students can share their opinions freely. This creates an environment where users can have honest and open conversations.
 2.Timetable and lecture reviews: Students need the ability to check their timetable and lecture reviews so they would consider those reviews for creating their timetables.In addition,once a student is on a waitlist, they could communicate through community whether somebody is going to drop that course or not and it gives students to make changes efficiently.
