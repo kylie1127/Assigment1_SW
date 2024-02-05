@@ -1,4 +1,3 @@
-Glossary:
 Users: University Students in BC who are whether GUS or individual student 
 
 ID: student’s account and personal informations such as their student number and verification 
