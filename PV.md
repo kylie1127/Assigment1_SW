@@ -90,3 +90,20 @@ Budgets: Our project will be working with low or no budgets as this is a class p
 Scalability: If our app becomes popular, we should be able to handle numerous users without performance issues. 
 
 Device Compatibility: Students may use a variety of devices and operating systems, such as Android, iOS. Our app should be compatible with all possible platforms. 
+
+
+
+Key Features and Functionalities:
+1.Anonymous community:  required where users can freely write and share their opinions. This facilitates communication and information sharing among the school community.
+- Anonymity: Anonymity must be ensured so that students can share their opinions freely. This creates an environment where users can have honest and open conversations.
+2.Timetable and lecture reviews: Students need the ability to check their timetable and lecture reviews so they would consider those reviews for creating their timetables.In addition,once a student is on a waitlist, they could communicate through community whether somebody is going to drop that course or not and it gives students to make changes efficiently.
+3.Club recruitment: provide an introduction to each department and club. This would help students choose the department or club that suits them.
+4.Cafeteria: link with boost.
+5.Internship information (job posting)
+6.School schedule: provide information about the various events and schedules happening at their institution.
+ 7.School notifications: Requires the ability to receive important notifications from the school. This allows them to quickly receive updates on information about your school.
+8.Department communication: It is necessary to have a function that allows users to form a community for each department  and communicate from it. Makes students to interact and share information with people with common interests or the same major..
+9.Reporting functionality: need the ability to report inappropriate posts and comments. This allows app users to protect the culture and safety of their school community.
+10.Variety of theme
+
+
