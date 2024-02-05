@@ -107,4 +107,17 @@ Key Features and Functionalities:
 9.Reporting functionality: need the ability to report inappropriate posts and comments. This allows app users to protect the culture and safety of their school community.
 10.Variety of theme
 
+Assumptions
+User’s Involvement: The way of getting users’ involvement at the beginning is tough.
+Platform compatibility: The application should be working with a variety of hardware and operating systems, which may restrict some users' access.
+collaboration with IT teams: Effective cooperation for technical support and product integration with the school's IT departments.
+Completeness and Accuracy of the Data:  The student information and course information submitted by staff of the institution should be accurate and comprehensive.
+
+Risks
+Online Targeting and conflict: Some may hide behind anonymity and act aggressively. Additionally, they could bring out topics that cause conflict, such as gender issues, LGBTQ, religion, etc.
+Compliance: Legal problems could arise from a failure to abide with educational standards and laws.
+Financial restrictions: Tight budgets may prevent products from being developed, implemented, or maintained.
+Lack of user participation: If users aren't actively using your product, it can be less effective. Additionally, students at certain institutions may not be able to take advantage of our app if they already have access to a well-designed website with a variety of features.
+Privacy issues: A privacy breach may result from insufficient safeguards for private student, professor, and staff data.
+Cheating and untrustworthiness: Since the community is anonymous, some students may discuss the test before their colleagues have finished it.
 
