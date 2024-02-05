@@ -48,3 +48,45 @@ This is what makes our platform unique. Our platform offers a variety of ways fo
 
 Once its system is implemented in BC University/college’s community, it can further develop into a Canada National wide community website that creates a positive influence for students. We expect that our application will be a center of university student’s meeting place.
 
+
+Scope
+Scope refers to the defined boundaries of a project. This part outlines what the project will deliver the timeline, and the resources involved. 
+
+Scope: Our team is committed to developing an application designed to foster social connections among college and university students. This application will not only serve as a platform for building relationships but also as a tool for educational advancement. We aim to create a supportive community where freedom of speech is upheld and respected. Our goal is to enhance the academic and social experiences of students through this innovative platform. 
+
+Deliverables: 
+Profile Creation: users can create personalized profiles, showcasing their academic interests, hobbies and more when needed. 
+
+Community Forums: A platform for students to engage in discussions, share ideas for their study or projects, ask questions regarding academic and provide answers. 
+
+Direct Messaging: Enables private conversations between users, facilitating one to one interactions. 
+
+Study Group: Allows users to create and join study groups based on their courses or interests. Furthermore, this can be project development discussion. 
+
+Event Calendar: A feature to keep track of important academic dates, social events, and study group meetings.
+
+Resource Sharing: A platform for sharing educational resources like notes, textbooks. 
+
+New Feed: Updates or news from the university, student organizations and peers. 
+
+Exclusions: 
+
+Physical Meetups: Organizing physical meetups or events might be beyond the scope of this application. The app is primarily designed for online interaction.
+Personal Counselling or Therapy: While the app can provide a platform for students to share their experiences and support each other, it should not be seen as a replacement for professional mental health services.
+
+Academic Grading or Evaluation: The app should not be used for official academic grading or evaluation. It’s a platform for social and educational support, not formal education.
+
+Constraints
+Constraints refers to any limitations or constraints, design constraints, usability, performance, documentation, packaging, etc. 
+
+User Privacy and Data Security: As our app will be handling personal data of students such as student ID, we must comply with data protection regulations. 
+
+Accessibility: Our app should be accessible to all students, including those with disabilities. This means that our app should comply with accessibility standards. 
+
+Internet Connectivity: Not all students will have access to high-speed internet. Our app should be optimized to work well even in low-bandwidth situations. 
+
+Budgets: Our project will be working with low or no budgets as this is a class project. This would limit our choices for technology, features and other aspects of the project. 
+
+Scalability: If our app becomes popular, we should be able to handle numerous users without performance issues. 
+
+Device Compatibility: Students may use a variety of devices and operating systems, such as Android, iOS. Our app should be compatible with all possible platforms. 
